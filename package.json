@@ -1,0 +1,28 @@
+{
+  "name": "conf-dot-json",
+  "version": "1.0.0",
+  "description": "NodeJS package loading project configuration from conf.json",
+  "main": "conf.js",
+  "scripts": {
+    "test": "jest --coverage --verbose false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parczynski/node-conf.json.git"
+  },
+  "keywords": [
+    "config",
+    "configuration",
+    "environment",
+    "json"
+  ],
+  "author": "Igor Parchinsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Parczynski/node-conf.json/issues"
+  },
+  "homepage": "https://github.com/Parczynski/node-conf.json#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
